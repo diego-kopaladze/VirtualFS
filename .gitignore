@@ -1,0 +1,22 @@
+# CMake build files
+build/
+cmake-build-*/
+
+# CLion project files
+.idea/
+*.iml
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+
+# C++ backup files
+*~
+*.swp
+*.tmp
+
+# Mac/Linux system files
+.DS_Store
+Thumbs.db
